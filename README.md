@@ -1,6 +1,6 @@
 # Introduction
 
-An freestanding environment capable of running on a bare metal
+A freestanding environment capable of running on a bare metal
 PC-compatible hardware in protected mode. Implemented APIs include
 hard drive interaction (with ATA PIO Mode), keyboard input,
 programmable interval timer, interrupt controller, drawing in 24 bit
